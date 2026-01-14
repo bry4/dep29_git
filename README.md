@@ -8,3 +8,5 @@ Esto es un segundo cambio por marcos
 
 Comentario de Bryan
 Otro comentario
+
+Regla de proteccion activada
